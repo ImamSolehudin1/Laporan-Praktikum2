@@ -5,7 +5,7 @@
 ## Kelas       : TI.21.C.1
 ## Mata Kuliah : Pemrograman Orientasi Objek
 
-1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur dan lengkapi dengan access modifier.
+### 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur dan lengkapi dengan access modifier.
     - Untuk membuat class person yang memiliki atribut nama, jenis kelamin dan umur kita perlu type data string dan integer untuk umur. Pada class diagram ini kita menggunakan access modifier private, access modifier ini berfungsi untuk menjaga integritas data ketika ingin diakses objek lain. berikut programnya :
     
 ![Gambar](image/Programclassperson3.jpg)
@@ -22,7 +22,7 @@
 
 ![Gambar](image/Programclassperson.jpg)
 
-2. Buatlah dua buah objek dari class Person bernama Anton dan Riko dan panggil method setter dan getter.
+### 2. Buatlah dua buah objek dari class Person bernama Anton dan Riko dan panggil method setter dan getter.
 
     - Selanjutnya kita membuat 2 buah objek dalam class Person, objeknya yaitu Dia1 dan Dia2. berikut programnya :
 
